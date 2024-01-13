@@ -6,11 +6,9 @@
 
 `awesome-visionOS-apps` is a curated list of awesome visionOS apps. 🥽 
 
+Check it out by browsing our table of contents or pressing Command + F to search for a keyword.
+
 **PRs are welcome!**
-
-# How to Use
-
-`awesome-visionOS-apps` is an awesome list for discovering high quality visionOS. Browse our table of contents or press Command + F to search for a keyword.
 
 # Contributing
 
