@@ -39,4 +39,4 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ### Keywords
 
-_visionOS, app directory, app catalog, Apple Vision Pro, app list, app lists_
+_visionOS, app directory, app catalog, Apple Vision Pro, app list, app lists, indie software, indie apps_
