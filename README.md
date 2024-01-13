@@ -15,6 +15,7 @@ Read [CONTRIBUTING.md](https://github.com/furnacecreek/awesome-visionOS-apps/blo
 # Categories
 
 - [Business](#business)
+- [Finance](#finance)
 - [Productivity](#productivity)
 
 ---
@@ -22,6 +23,10 @@ Read [CONTRIBUTING.md](https://github.com/furnacecreek/awesome-visionOS-apps/blo
 ## Business
 
 - [Simplefax](https://furnacecreek.org/simplefax/vision) - Fax app with zero subscriptions or hidden fees.
+
+## Finance
+
+- [SubManager](https://getsubmanager.app/) - Track your subscriptions in one place and get notified before a subscription is renewed.
 
 ## Productivity
 
