@@ -4,13 +4,15 @@
 
 # awesome-visionOS-apps
 
-`awesome-visionOS-apps` is a curated list of awesome [visionOS](https://developer.apple.com/visionos/) apps. 🥽 
+🥽 `awesome-visionOS-apps` is a curated list of awesome [visionOS](https://developer.apple.com/visionos/) apps designed to work natively on Apple Vision Pro. Check it out by browsing our table of contents or pressing Command + F to search for a keyword.
 
-Check it out by browsing our table of contents or pressing Command + F to search for a keyword. This project is maintained by [Furnace Creek Software](https://furnacecreek.org). If you'd like to support us, check out our apps.
+# Sponsor
+
+This project is maintained by [Furnace Creek Software](https://furnacecreek.org). If you'd like to support us, check out our apps.
 
 # Contributing
 
-Read [CONTRIBUTING.md](https://github.com/furnacecreek/awesome-visionOS-apps/blob/master/CONTRIBUTING.md), fork the repo, and send us a pull request!
+We are accepting PRs for additional apps designed for visionOS that are shipping soon on the visionOS App Store (no "Designed for iPad" apps, no sample code). Read [CONTRIBUTING.md](https://github.com/furnacecreek/awesome-visionOS-apps/blob/master/CONTRIBUTING.md) for more information, fork the repo, and send us a pull request!
 
 # Categories
 
@@ -32,3 +34,9 @@ Read [CONTRIBUTING.md](https://github.com/furnacecreek/awesome-visionOS-apps/blo
 
 - [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) - Powerful calendar and reminders app with natural language parsing and a lot more.
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
+
+---
+
+### Keywords
+
+_visionOS, app directory, app catalog, Apple Vision Pro, app list, app lists_
