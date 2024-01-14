@@ -35,6 +35,9 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) - Powerful calendar and reminders app with natural language parsing and a lot more.
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
 
+## Travel
+- [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI
+
 ---
 
 ### Keywords
