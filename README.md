@@ -19,6 +19,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Business](#business)
 - [Finance](#finance)
 - [Productivity](#productivity)
+- [Travel](#travel)
 
 ---
 
@@ -36,7 +37,8 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
 
 ## Travel
-- [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI
+
+- [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI.
 
 ---
 
