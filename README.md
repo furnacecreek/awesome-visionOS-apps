@@ -17,6 +17,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 # Categories
 
 - [Business](#business)
+- [Education](#education)
 - [Finance](#finance)
 - [Productivity](#productivity)
 - [Travel](#travel)
@@ -26,6 +27,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Business
 
 - [Simplefax](https://furnacecreek.org/simplefax/vision) - Fax app with zero subscriptions or hidden fees.
+
+## Education
+
+- [Memorii](https://www.studioamanga.com/memorii/) - Study Chinese hanzi, Japanese kanji, and Korean hangul.
 
 ## Graphics & Design
 
