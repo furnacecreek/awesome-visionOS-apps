@@ -29,6 +29,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Finance
 
+- [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Get your Bills paid on time, and your spending Budgets in order with Bills to Budget.
 - [SubManager](https://getsubmanager.app/) - Track your subscriptions in one place and get notified before a subscription is renewed.
 
 ## Productivity
