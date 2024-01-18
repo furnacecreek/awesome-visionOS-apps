@@ -27,6 +27,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Simplefax](https://furnacecreek.org/simplefax/vision) - Fax app with zero subscriptions or hidden fees.
 
+## Graphics & Design
+
+- [Bento|Craft](https://thatvirtualboy.com/bentocraft) - A free app to build beautiful bento images for marketing your app or service.
+
 ## Finance
 
 - [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Get your Bills paid on time, and your spending Budgets in order with Bills to Budget.
