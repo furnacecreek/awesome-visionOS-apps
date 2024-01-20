@@ -20,6 +20,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Education](#education)
 - [Finance](#finance)
 - [Graphics and Design](#graphics--design)
+- [Music](#music)
 - [Productivity](#productivity)
 - [Travel](#travel)
 
@@ -42,6 +43,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Get your Bills paid on time, and your spending Budgets in order with Bills to Budget.
 - [Expenses](https://getexpenses.app) - Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface.
 - [SubManager](https://getsubmanager.app/) - Track your subscriptions in one place and get notified before a subscription is renewed.
+
+## Music
+
+- [Longplay](https://longplay.rocks) - Album-focussed music player, that features a life-sized album wall and immersive experience for Apple Vision Pro.
 
 ## Productivity
 
