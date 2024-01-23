@@ -19,6 +19,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Business](#business)
 - [Education](#education)
 - [Finance](#finance)
+- [Games](#games)
 - [Graphics and Design](#graphics--design)
 - [Lifestyle](#lifestyle)
 - [Music](#music)
@@ -34,6 +35,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Education
 
 - [Memorii](https://www.studioamanga.com/memorii/) - Study Chinese hanzi, Japanese kanji, and Korean hangul.
+
+## Games
+
+- [Kattam](https://apps.apple.com/us/app/kattam/id6476475799) - Word game where you "touch" and move letters to solve words before they fly off the top.
 
 ## Graphics & Design
 
