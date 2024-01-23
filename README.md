@@ -58,6 +58,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Music
 
 - [Longplay](https://longplay.rocks) - Album-focussed music player, that features a life-sized album wall and immersive experience for Apple Vision Pro.
+- [tappr.tv](https://www.tappr.tv) - For Apple Music subscribers, tappr.tv for visionOS lets you experience immersive 3D digital dancing. Over 5,000 dances available, and growing! Coming soon, dance with your hands in the air!
 
 ## Productivity
 
