@@ -25,6 +25,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Music](#music)
 - [Productivity](#productivity)
 - [Travel](#travel)
+- [Sports](#sports)
 
 ---
 
@@ -67,6 +68,9 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI.
 
+## Sports
+
+- [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207) - Live stats for cricket matches to accompany a video stream or use independently. A worm chart and scorecard windows to place where you want and a 3D Volumetric Wagon Wheel view of every shot. 
 ---
 
 ### Keywords
