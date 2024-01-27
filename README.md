@@ -66,13 +66,13 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
 - [Subjects](https://eyen.fr/subjects/) — Student planner to track timetables, homework, and grades.
 
-## Travel
-
-- [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI.
-
 ## Sports
 
 - [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207) - Live stats for cricket matches to accompany a video stream or use independently. A worm chart and scorecard windows to place where you want and a 3D Volumetric Wagon Wheel view of every shot.
+
+## Travel
+
+- [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI.
 
 ---
 
