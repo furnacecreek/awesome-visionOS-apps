@@ -24,8 +24,8 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Lifestyle](#lifestyle)
 - [Music](#music)
 - [Productivity](#productivity)
-- [Travel](#travel)
 - [Sports](#sports)
+- [Travel](#travel)
 
 ---
 
@@ -37,6 +37,12 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Memorii](https://www.studioamanga.com/memorii/) - Study Chinese hanzi, Japanese kanji, and Korean hangul.
 
+## Finance
+
+- [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Get your Bills paid on time, and your spending Budgets in order with Bills to Budget.
+- [Expenses](https://getexpenses.app) - Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface.
+- [SubManager](https://getsubmanager.app/) - Track your subscriptions in one place and get notified before a subscription is renewed.
+
 ## Games
 
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799) - Word game where you "touch" and move letters to solve words before they fly off the top.
@@ -44,12 +50,6 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Graphics & Design
 
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft) - A free app to build beautiful bento images for marketing your app or service.
-
-## Finance
-
-- [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Get your Bills paid on time, and your spending Budgets in order with Bills to Budget.
-- [Expenses](https://getexpenses.app) - Expenses has been crafted to keep track of your spending effortlessly, with useful features in a simple, intuitive interface.
-- [SubManager](https://getsubmanager.app/) - Track your subscriptions in one place and get notified before a subscription is renewed.
 
 ## Lifestyle
 
@@ -72,7 +72,8 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Sports
 
-- [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207) - Live stats for cricket matches to accompany a video stream or use independently. A worm chart and scorecard windows to place where you want and a 3D Volumetric Wagon Wheel view of every shot. 
+- [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207) - Live stats for cricket matches to accompany a video stream or use independently. A worm chart and scorecard windows to place where you want and a 3D Volumetric Wagon Wheel view of every shot.
+
 ---
 
 ### Keywords
