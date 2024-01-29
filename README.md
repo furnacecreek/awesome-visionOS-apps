@@ -23,6 +23,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Graphics and Design](#graphics--design)
 - [Lifestyle](#lifestyle)
 - [Music](#music)
+- [Photo & Video](#photo--video)
 - [Productivity](#productivity)
 - [Sports](#sports)
 - [Travel](#travel)
@@ -59,6 +60,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Longplay](https://longplay.rocks) - Album-focussed music player, that features a life-sized album wall and immersive experience for Apple Vision Pro.
 - [tappr.tv](https://www.tappr.tv) - For Apple Music subscribers, tappr.tv for visionOS lets you experience immersive 3D digital dancing. Over 5,000 dances available, and growing! Coming soon, dance with your hands in the air!
+
+## Photo & Video
+
+- [Photoscope](https://leitmotif.dev/photoscope) - Free app to find the best pick of a photo series or burst and clean up your library along the way. Now out for iPhone and Apple Vison Pro.
 
 ## Productivity
 
