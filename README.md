@@ -71,6 +71,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Great White(board)](https://www.swankyshark.com/great-white-board.html) - An intentionally uncomplicated whiteboard that you take with you.
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
 - [Subjects](https://eyen.fr/subjects/) — Student planner to track timetables, homework, and grades.
+- [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657) — Use AI to get the TLDR of any webpage in just 2 clicks + breaks through news site paywalls!
 
 ## Sports
 
