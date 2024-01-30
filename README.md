@@ -21,6 +21,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [Finance](#finance)
 - [Games](#games)
 - [Graphics and Design](#graphics--design)
+- [Health and Fitness](#health--fitness)
 - [Lifestyle](#lifestyle)
 - [Music](#music)
 - [Photo & Video](#photo--video)
@@ -51,6 +52,10 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Graphics & Design
 
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft) - A free app to build beautiful bento images for marketing your app or service.
+
+## Health & Fitness
+
+- [Orbit Meditation](https://orbitmeditationapp.com/) - An immersive meditation app for Apple Vision Pro, offering personalized experiences with mood check-ins, AI-guided sessions, and dynamic, captivating environments, tailored to enhance mindfulness and tranquility.
 
 ## Lifestyle
 
