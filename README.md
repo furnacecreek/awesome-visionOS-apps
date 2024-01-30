@@ -67,6 +67,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Productivity
 
+- [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/) - A flexible and lightweight life logging app to track anything that matters to you.
 - [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) - Powerful calendar and reminders app with natural language parsing and a lot more.
 - [Great White(board)](https://www.swankyshark.com/great-white-board.html) - An intentionally uncomplicated whiteboard that you take with you.
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
