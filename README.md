@@ -48,6 +48,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Games
 
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799) - Word game where you "touch" and move letters to solve words before they fly off the top.
+- [Minghin](https://minghin.letvar.io) - Play a memory game where you observe Minghin's balloon sequence blinking and replicate it by tapping the balloons in the correct order.
 
 ## Graphics & Design
 
