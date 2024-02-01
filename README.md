@@ -89,6 +89,11 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Söka](https://soka.appdeco.ca) - The easy way to manage your bucket lists and discover new goals using AI.
 
+## Utilities
+
+- [Quiet](https://petercammeraat.net/projects/quiet/) - Quiet is a content blocker for Safari on iPhone, iPad, Mac, and Vision Pro that will let you block out all of the unwanted distractions.
+
+
 ---
 
 ### Keywords
