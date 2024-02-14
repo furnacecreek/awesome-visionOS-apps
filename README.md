@@ -57,6 +57,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Health & Fitness
 
 - [Orbit Meditation](https://orbitmeditationapp.com/) - An immersive meditation app for Apple Vision Pro, offering personalized experiences with mood check-ins, AI-guided sessions, and dynamic, captivating environments, tailored to enhance mindfulness and tranquility.
+- [mentalOS](https://apps.apple.com/us/app/mentalos-ai-meditations/id6471967539) - Meditation app like Calm, but without pre-recorded content and with spatial environments. Each audio session is generated individually for each user. You can float in sky clouds or star fields during your practice.
 
 ## Lifestyle
 
