@@ -74,13 +74,14 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Productivity
 
+- [Bezel](https://getbezel.app/vision/) - Mirror your iPhone into Apple Vision Pro.
 - [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/) - A flexible and lightweight life logging app to track anything that matters to you.
 - [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) - Powerful calendar and reminders app with natural language parsing and a lot more.
 - [Great White(board)](https://www.swankyshark.com/great-white-board.html) - An intentionally uncomplicated whiteboard that you take with you.
 - [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) - Project management software for professionals.
+- [SearchHere](https://apps.apple.com/us/app/searchhere/id6478420146) - Set and organize multiple web browsers with simple windows. 
 - [Subjects](https://eyen.fr/subjects/) — Student planner to track timetables, homework, and grades.
 - [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657) — Use AI to get the TLDR of any webpage in just 2 clicks + breaks through news site paywalls!
-- [Bezel](https://getbezel.app/vision/) - Mirror your iPhone into Apple Vision Pro.
 
 ## Sports
 
