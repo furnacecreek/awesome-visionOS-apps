@@ -71,6 +71,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Photo & Video
 
 - [Photoscope](https://leitmotif.dev/photoscope) - Free app to find the best pick of a photo series or burst and clean up your library along the way. Now out for iPhone and Apple Vison Pro.
+- [ImmersiShare](https://loshadki.app/immersishare/) - Get your daily doze of spatial videos, share your spatial videos with other users.
 
 ## Productivity
 
