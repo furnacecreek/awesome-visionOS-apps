@@ -37,6 +37,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Education
 
+- [Math Guru](https://math-guru.app/) – Your ultimate trainer for solving equations, simplifying fractions, and mastering challenging levels to become a math pro.
 - [Memorii](https://www.studioamanga.com/memorii/) - Study Chinese hanzi, Japanese kanji, and Korean hangul.
 
 ## Finance
