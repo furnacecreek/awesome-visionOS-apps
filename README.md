@@ -37,6 +37,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 ## Education
 
+- [Chemistry & Periodic Table](https://apps.apple.com/app/chemistry/id493558583?pt=965231&ct=git-awesome-visionOS-apps&mt=8&platform=appleVisionPro) – Your comprehensive solution for exploring reactions, navigating the Periodic Table, and accessing essential chemical data, all in one app.
 - [Memorii](https://www.studioamanga.com/memorii/) - Study Chinese hanzi, Japanese kanji, and Korean hangul.
 
 ## Finance
