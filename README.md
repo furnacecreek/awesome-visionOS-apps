@@ -55,7 +55,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 ## Graphics & Design
 
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft) - A free app to build beautiful bento images for marketing your app or service.
-
+- [Depthforge](https://apps.apple.com/us/app/depthforge/id6499144037) - Immersive 3D Image Generator for Apple Vision Pro. Get creative ideas from the built-in randomized prompt generator and use the Enhance with AI feature to use an LLM to generate better prompts for high-quality image generation with minimal effort.
 ## Health & Fitness
 
 - [Orbit Meditation](https://orbitmeditationapp.com/) - An immersive meditation app for Apple Vision Pro, offering personalized experiences with mood check-ins, AI-guided sessions, and dynamic, captivating environments, tailored to enhance mindfulness and tranquility.
