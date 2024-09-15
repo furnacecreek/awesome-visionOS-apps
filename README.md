@@ -51,6 +51,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799) - Word game where you "touch" and move letters to solve words before they fly off the top.
 - [Minghin](https://minghin.letvar.io) - Play a memory game where you observe Minghin's balloon sequence blinking and replicate it by tapping the balloons in the correct order.
+- [Spatial Escape I Distress Call](https://mszpro.com/spatial-escape/) - An immersive escape room game, blending time travel, puzzles, and secrets. Play as a detective investigating a professor's disappearance. Solve puzzles with hand tracking in your own space—unveil mysteries and unlock 3 unique endings.
 
 ## Graphics & Design
 
