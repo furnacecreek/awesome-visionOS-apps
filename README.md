@@ -86,6 +86,7 @@ We are accepting PRs for additional apps designed for visionOS that are shipping
 - [SearchHere](https://apps.apple.com/us/app/searchhere/id6478420146) - Set and organize multiple web browsers with simple windows. 
 - [Subjects](https://eyen.fr/subjects/) — Student planner to track timetables, homework, and grades.
 - [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657) — Use AI to get the TLDR of any webpage in just 2 clicks + breaks through news site paywalls!
+- - [VisionDesk](https://apps.apple.com/app/id6792746717) - Multi-display Mac workspace: a free Mac companion creates real macOS virtual displays and streams up to five of them into a spatial workspace.
 
 ## Sports
 
